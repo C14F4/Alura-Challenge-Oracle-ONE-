@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Codificador</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1 class="titulo">Codificador</h1>
+
+  <main class="main">
+    <section class="form box">
+      <form action="">
+        <label for="input-texto">Solo letras minúsculas, sin acento</label>
+        <input class="text-input" type="text" name="input-texto" id="input-texto" placeholder="Ingrese el texto aqui">
+        <input class="btn" type="button" value="Encriptar!"  id="btn-encriptar">
+        <input class="btn" type="button" value="Desencriptar!" id="btn-desencriptar">
+      </form>
+    </section>
+  </main>
+  <br>
+  <main class="main">
+    <section class="msg box">
+      <h2 id="">Mensaje encriptado:</h2>
+      <input class="text-input" type="text" id="msg" readonly></input>
+      <input class="btn" type="button" value="Copiar" id="btn-copy">
+    </section>
+  </main>
+  <br><hr><br>
+  <footer class="footer">
+    <p>Diseño y programación:</p>
+    <p>Juan Carlos Ciafardini</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>

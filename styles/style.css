@@ -1,0 +1,104 @@
+header {
+	background: linear-gradient(red,white);
+}
+
+.cajaCabecera {
+    width: 940px;
+    position: relative;
+    display: flex;
+    margin: 0 auto;
+	padding: 20px;
+}
+
+.logo {
+    width: 10%; 
+	height: 10%; 
+}
+
+nav{
+    position: absolute;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+#opcionComidas{
+    width: 940px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#opcionComidas ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+#opcionComidas li{
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 10px;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    border-radius: 0px 30px 0px 30px ;
+	box-shadow: 3px 2px 5px #000000;
+}
+
+#opcionComidas li:hover{
+    border:1px solid red;
+	box-shadow: 3px 2px 5px green;
+}
+
+#opcionComidas h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+img.imagenComida {
+	width: 200px; 
+	height: 130px; 
+}
+
+#opcionComidas li:hover h2{
+    font-size: 31px;
+    font-style: italic;
+}
+
+.producto-descripcion{
+    font-size: 18px;
+}
+
+.producto-precio{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top:10px;
+}
+
+.row {
+	padding : 20px;
+}
+
+footer{
+    text-align: center;
+    background: linear-gradient(white,red);
+    padding:40px;
+    color: white;
+}

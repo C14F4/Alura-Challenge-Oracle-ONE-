@@ -1,0 +1,36 @@
+#contacto {
+    text-align: center;
+}
+
+#contacto h1{
+    font-size: 30px;
+    font-weight: bold
+}
+
+form{
+    margin: 40px auto;
+}
+
+form label, form legend{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padron{
+    display: block;
+    margin: auto auto 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.enviar{
+    width: 40%;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color:white;
+    background: grey;
+    border:none;
+    border-radius: 5px;
+}

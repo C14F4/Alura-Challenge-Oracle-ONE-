@@ -1,0 +1,48 @@
+{
+    "pizzas":[
+        {
+            "nombre":"Margarita",
+            "imagen":"./img/pizza1.jpg",
+            "descripcion":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos odit expedita natus minus corporis illo ab illum at, corrupti nam!",
+            "precio":123.4
+        },
+        {
+            "nombre":"Fugazzeta",
+            "imagen":"./img/pizza2.jpg",
+            "descripcion":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos odit expedita natus minus corporis illo ab illum at, corrupti nam!",
+            "precio":123.4
+        },
+        {
+            "nombre":"Jamon y Rucula",
+            "imagen":"./img/pizza3.jpg",
+            "descripcion":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos odit expedita natus minus corporis illo ab illum at, corrupti nam!",
+            "precio":123.4
+        },
+        {
+            "nombre":"Pizza 4",
+            "imagen":"./img/pizza1.jpg",
+            "descripcion":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos odit expedita natus minus corporis illo ab illum at, corrupti nam!",
+            "precio":123.4
+        },{
+            "nombre":"Pizza 5",
+            "imagen":"./img/pizza1.jpg",
+            "descripcion":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos odit expedita natus minus corporis illo ab illum at, corrupti nam!",
+            "precio":123.4
+        },{
+            "nombre":"Pizza 6",
+            "imagen":"./img/pizza1.jpg",
+            "descripcion":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos odit expedita natus minus corporis illo ab illum at, corrupti nam!",
+            "precio":123.4
+        },{
+            "nombre":"Pizza 7",
+            "imagen":"./img/pizza1.jpg",
+            "descripcion":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos odit expedita natus minus corporis illo ab illum at, corrupti nam!",
+            "precio":123.4
+        },{
+            "nombre":"Pizza 8",
+            "imagen":"./img/pizza1.jpg",
+            "descripcion":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos odit expedita natus minus corporis illo ab illum at, corrupti nam!",
+            "precio":123.4
+        }
+    ]
+}
