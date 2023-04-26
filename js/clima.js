@@ -16,7 +16,7 @@ function climaAhora(clima){
     cajaClima.appendChild(p);
 }
 
-const requestURL2 = 'http://api.weatherbit.io/v2.0/current?lat=-34.6131&lon=-58.3772&lang=es&key=d71ef4a704e8411db65e86cfbf5d796f';
+const requestURL2 = 'https://api.weatherbit.io/v2.0/current?lat=-34.6131&lon=-58.3772&lang=es&key=d71ef4a704e8411db65e86cfbf5d796f';
 const request2 = new XMLHttpRequest();
 request2.open('GET', requestURL2);
 request2.responseType = 'json';
